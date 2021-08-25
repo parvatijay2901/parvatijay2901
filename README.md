@@ -1,6 +1,6 @@
 ## Hi, I'm Parvati 👋
 
-[![Website](https://img.shields.io/badge/Student-IIIT-DWD-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Student-IIIT_DWD-green?style=flat-square)](https://google.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=parvatijay2901)
 
 ### I'm a tech enthusiast with a passion to learn everything...
