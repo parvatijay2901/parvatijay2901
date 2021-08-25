@@ -19,5 +19,7 @@
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](parvatijay2901@gmail.com)
 <br />
 
+
+
 ### Latest blog posts:
 - [Machine Learning with Titanic dataset on Azure SDK](https://parvatijay2901.medium.com/machine-learning-with-titanic-dataset-on-azure-117dc9073976)
