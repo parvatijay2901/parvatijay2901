@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/badge/Student-IIIT_DWD-green?style=flat-square)](https://google.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=parvatijay2901)
 
-### I'm a tech enthusiast with a passion to learn everything...
-
 - 🔭 I’m currently working/learning topics related to ML/DL. 
 - 👯 I’m looking to collaborate on projects that match my current passion. 
 - 🌱 2021 goal: Collaborate and work on new projects. 
