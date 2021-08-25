@@ -1,6 +1,6 @@
 ## Hi, I'm Parvati 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=parvatijay2901)
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
 
