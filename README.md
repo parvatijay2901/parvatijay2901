@@ -2,7 +2,7 @@
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvatijay2901&theme=vue)](https://github.com/parvatijay2901/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvatijay2901&theme=vue&hide_border=true)](https://github.com/parvatijay2901/github-readme-stats)
 
 <!--
 **parvatijay2901/parvatijay2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
