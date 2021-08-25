@@ -1,6 +1,6 @@
 ## Hi, I'm Parvati 👋
 
-https://img.shields.io/static/v1?label=<Student>&message=<IIIT-DWD>&color=<green>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
 
