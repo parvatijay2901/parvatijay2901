@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parvatijay2901&repo=github-readme-stats)](https://github.com/parvatijay2901a/github-readme-stats)
+
 https://img.shields.io/static/v1?label=<LABEL>&message=<Student IIIT-DWD>&color=<COLOR>
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
