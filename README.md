@@ -20,3 +20,4 @@
 
 ### Latest blog posts:
 - [Machine Learning with Titanic dataset on Azure SDK](https://parvatijay2901.medium.com/machine-learning-with-titanic-dataset-on-azure-117dc9073976)
+- [The McCulloch-Pitts ANN](https://parvatijay2901.medium.com/the-mcculloch-pitts-ann-ba8c887769fc)
