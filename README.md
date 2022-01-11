@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working/learning topics related to ML/DL. 
 - 👯 I’m looking to collaborate on projects that match my current passion. 
-- 🌱 2021 goal: Collaborate and work on new projects. 
+- 🌱 2022 goal: Collaborate and work on new projects. 
 - 💬 Ask me anything that's genuine; I will surely reply. 
 - ⚡ Fun fact: I'm an Ambivert!
 
