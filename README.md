@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on projects that match my current passion. 
 - 🌱 2022 goal: Collaborate and work on new projects. 
 - 💬 Ask me anything that's genuine; I will surely reply. 
-- ⚡ Fun fact: I'm an Ambivert!
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvatijay2901&theme=vue&hide_border=true)](https://github.com/parvatijay2901/github-readme-stats)
