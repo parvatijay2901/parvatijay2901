@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Student-IIIT_DWD-green?style=flat-square)](https://google.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=parvatijay2901)
 
-- 🔭 I’m currently working/learning topics related to ML/DL. 
+- 🔭 Passionate about topics in and around AI.  
 - 👯 I’m looking to collaborate on projects that match my current passion. 
 - 🌱 2022 goal: Collaborate and work on new projects. 
 - 💬 Ask me anything that's genuine; I will surely reply. 
