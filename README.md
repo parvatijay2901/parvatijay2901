@@ -1,6 +1,6 @@
 ## Hi, I'm Parvati 👋
 
-[![Website](https://img.shields.io/badge/Student-IIIT_DWD-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Goal-Focussing-green?style=flat-square)](https://google.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=parvatijay2901)
 
 - 🔭 Passionate about topics in and around AI.  
