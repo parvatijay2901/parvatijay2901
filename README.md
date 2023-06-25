@@ -5,7 +5,7 @@
 
 - 🔭 Passionate about topics in and around AI.  
 - 👯 I’m looking to collaborate on projects that match my current passion. 
-- 🌱 2022 goal: Collaborate and work on new projects. 
+- 🌱 2023 goal: Collaborate and work on new projects. 
 - 💬 Ask me anything that's genuine; I will surely reply. 
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
