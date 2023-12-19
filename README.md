@@ -17,4 +17,4 @@
 <br />
 <br />
 
-### Check my latest blog posts [here](https://parvatijay2901.medium.com/).:
+### Check my latest blog posts [here](https://parvatijay2901.medium.com/).
