@@ -5,7 +5,7 @@
 
 - 🔭 Passionate about topics in and around AI.  
 - 👯 I’m looking to collaborate on projects that match my current passion. 
-- 🌱 2023 goal: Collaborate and work on new projects. 
+- 🌱 2024 goal: Collaborate and work on new projects. 
 - 💬 Ask me anything that's genuine; I will surely reply. 
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
@@ -17,6 +17,4 @@
 <br />
 <br />
 
-### Latest blog posts:
-- [Machine Learning with Titanic dataset on Azure SDK](https://parvatijay2901.medium.com/machine-learning-with-titanic-dataset-on-azure-117dc9073976)
-- [The McCulloch-Pitts ANN](https://parvatijay2901.medium.com/the-mcculloch-pitts-ann-ba8c887769fc)
+### Check my latest blog posts [here](https://parvatijay2901.medium.com/).:
