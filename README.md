@@ -11,9 +11,7 @@
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=parvatijay2901&show_icons=true&hide_border=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvatijay2901&theme=vue&hide_border=true)](https://github.com/parvatijay2901/github-readme-stats)
 <br />
-<br />
-### Check my latest blog posts [here](https://parvatijay2901.medium.com/).
-<br />
+Check my latest blog posts [here](https://parvatijay2901.medium.com/).
 <br />
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parvati-jayakumar/)
