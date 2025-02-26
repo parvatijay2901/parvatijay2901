@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Goal-Focussing-green?style=flat-square)](https://google.com)
 
-- 🔭 Passionate about topics in and around AI.  
+- 🔭 Passionate about topics in and around DS, ML, CV, NLP and AI.  
 - 👯 I’m looking to collaborate on projects that match my current passion. 
 - 🌱 2024 goal: Collaborate and work on new projects.
 
