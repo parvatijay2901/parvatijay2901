@@ -4,7 +4,7 @@
 
 - 🔭 Passionate about topics in and around DS, ML, CV, NLP and AI.  
 - 👯 I’m looking to collaborate on projects that match my current passion. 
-- 🌱 2024 goal: Collaborate and work on new projects.
+- 🌱 2025 goal: Collaborate and work on new projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvatijay2901&theme=vue&hide_border=true)](https://github.com/parvatijay2901/github-readme-stats)
 
